@@ -19,5 +19,9 @@ A Tic-Tac-Toe Game Made with Unity
 - How to Create Game Object
 - How to Write c# Scripts
 - Game Logic 
+- How to set images/Text some basic UI
+
+
+
 [link to my apk](https://github.com/saicharansigiri/Tic-Tac-Toe/blob/main/Tic%20Tac%20Toe.apk) 
 
