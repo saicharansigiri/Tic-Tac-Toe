@@ -17,7 +17,7 @@ A Tic-Tac-Toe Game Made with Unity
 - How to use Basic Sprites
 - Buttons in unity
 - How to Create Game Object
-- How to Write c# Scripts
+- How to Write C# Scripts
 - Game Logic 
 - How to set images/Text some basic UI
 
